@@ -23,7 +23,7 @@ The Box Wrapper is designed to:
 4. **Software**: TIA Portal with simulation using PLCSim.
 
 ## System Diagram
-(Include any system diagrams, wiring diagrams, and control logic here)
+((((Include any system diagrams, wiring diagrams, and control logic here))))
 
 ## How It Works
 The wrapping process is fully automated, with:
